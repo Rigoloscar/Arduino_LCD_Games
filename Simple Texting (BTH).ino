@@ -25,7 +25,7 @@ void setup()
   lcd.begin(16, 2);
   
  
-}
+} //Instructions: use a bluetooth arduino app to transfer text to the board using the module;
 
 
 void loop() 
