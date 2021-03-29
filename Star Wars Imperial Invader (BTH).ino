@@ -3,6 +3,11 @@
 
 LiquidCrystal lcd(11, 10, 6, 5, 4, 3);
 
+//INSTRUCTIONS;
+
+//Use the bluetooth arduino app's arrows to mode the XWing across the screen;
+//Use the central up arrow to shot the TIE;
+//Kill all the TIE until you win;
 
 byte TIEfighter [8]
 { 0b00000,
