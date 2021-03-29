@@ -3,7 +3,9 @@
 
 LiquidCrystal lcd(11, 10, 6, 5, 4, 3);
 
-//Instructions: use the buttons to move link; 
+//Instructions; 
+
+//Use the buttons to move link; 
 //You have to hit Ganon touching him;
 //Every time you hit him, he will teleport;
 //If he teleports to your currently location, you will be hit;
