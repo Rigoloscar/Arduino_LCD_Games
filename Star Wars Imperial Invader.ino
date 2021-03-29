@@ -3,6 +3,11 @@
 
 LiquidCrystal lcd(11, 10, 6, 5, 4, 3); 
 
+//INSTRUCTIONS;
+
+//Use the buttons to move the XWing across the screen;
+//Press simultaneously the two buttons to shot;
+//Kill all the TIE until you win;
 
 byte TIEfighter [8]        
 { 0b00000,
