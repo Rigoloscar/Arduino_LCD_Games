@@ -2,7 +2,7 @@
 
 ______________________________________________________________________________________________________________________________________________________________________
 
-In this repository I've uploaded different "games" coded in C++ thought to be run in a 16x2 LCD using an arduino board. I tryed to imitate those 80's pocket computers that were able to run games coded in BASIC in a little LCD screen, with the diference of using the arduino C++ instead of BASIC and the use of a bluetooth module in some games.
+In this repository I've uploaded different "games" coded in C++ thought to be run in a 16x2 LCD using an arduino board. I tryed to imitate those 80's pocket computers that were able to run games coded in BASIC in a little LCD screen, with the difference of using the arduino C++ instead of BASIC and the use of a bluetooth module in some games.
 ______________________________________________________________________________________________________________________________________________________________________
 
 
