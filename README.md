@@ -19,6 +19,7 @@ COMPONENTS:
 - All cables and resistors you need (depending on the specific components used)
 
 
+
 CONNECTIONS:
 
 - Connect the LCD by this way: lcd(11, 10, 6, 5, 4, 3);
