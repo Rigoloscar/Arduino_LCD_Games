@@ -1,7 +1,14 @@
   #include<Wire.h>
 #include<LiquidCrystal.h>
 
-LiquidCrystal lcd(11, 10, 6, 5, 4, 3); 
+LiquidCrystal lcd(11, 10, 6, 5, 4, 3);
+
+//Instructions: use the buttons to move link; 
+//You have to hit Ganon touching him;
+//Every time you hit him, he will teleport;
+//If he teleports to your currently location, you will be hit;
+//You only have 4 lives;
+//Hit Ganon until you kill him;
 
 
 byte atack [8]        
