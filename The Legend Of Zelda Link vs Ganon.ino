@@ -3,7 +3,7 @@
 
 LiquidCrystal lcd(11, 10, 6, 5, 4, 3);
 
-//Instructions; 
+//INSTRUCTIONS; 
 
 //Use the buttons to move link; 
 //You have to hit Ganon touching him;
