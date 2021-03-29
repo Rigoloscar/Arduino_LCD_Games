@@ -8,7 +8,7 @@ int Pass=0,p=0;
  int blue = 13;
 LiquidCrystal lcd(11, 10, 6, 5, 4, 3);
 
-//Instructions;
+//INSTRUCTIONS;
 
 //Use a bluetooth arduino app to transfer text to the board using the module;
 
