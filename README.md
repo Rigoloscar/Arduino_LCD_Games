@@ -23,8 +23,8 @@ COMPONENTS:
 CONNECTIONS:
 
 - Connect the LCD by this way: lcd(11, 10, 6, 5, 4, 3);
-- Connect the 1st button to pin 2
-- Connect the 2nd button to pin 7
+- Connect the 1st button to pin 2 (active HIGH)
+- Connect the 2nd button to pin 7 (active HIGH)
 - Connect the buzzer to pin 9
 - Power the bluetooth module using the pin 13 (in order to turn it on or off when we want)
 - The data of the bluetooth module must be trasfered to arduino using its serial pins
